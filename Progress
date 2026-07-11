@@ -1,0 +1,79 @@
+Home Lab Progress
+Completed Projects and Configurations
+Windows Desktop Security Hardening
+
+Implemented security improvements on my Windows desktop by applying system hardening practices.
+
+Completed:
+• Disabled the Guest account to reduce unnecessary access points
+• Disabled the built-in Administrator account
+• Created a separate administrator account for administrative tasks
+• Converted my daily-use account to a standard user account using the principle of least privilege
+• Enabled BitLocker drive encryption
+• Backed up the BitLocker recovery key securely to a USB drive
+• Upgraded Windows to the Pro edition for additional security and management features
+• Used Computer Management to configure users and permissions
+• Implemented a password manager for better credential security
+• Ensured Windows updates and security patches were installed
+• Verified Windows Firewall was properly configured and enabled
+
+Cisco Catalyst 2960-X Switch Setup
+
+Started building a network infrastructure using a Cisco Catalyst 2960-X switch.
+
+Completed:
+• Acquired and prepared Cisco Catalyst 2960-X hardware for lab use
+• Connected to the switch using a rolled console cable
+• Configured console access through PuTTY
+• Learned Cisco console settings including 9600 baud, 8 data bits, no parity, 1 stop bit, and no flow control
+• Began learning Cisco IOS navigation and switch configuration
+• Preparing for VLAN configuration, trunking, and network segmentation
+
+Network Design Planning
+
+Designed the foundation for a segmented small business style network.
+
+Planned:
+• Creating separate VLANs for desktop, Ubuntu Server, and PS5 devices
+• Assigning each VLAN its own subnet within a private IPv4 network
+• Practicing subnet calculations manually
+• Configuring trunk links between network devices
+• Implementing inter-VLAN routing in future stages
+
+Linux Server Setup
+
+Installed Ubuntu Server as part of the infrastructure environment.
+
+Completed:
+• Installed Ubuntu Server with a minimal base installation
+• Began learning Linux server administration
+• Preparing the system for remote management through SSH
+• Planning future services and infrastructure applications
+
+Future Infrastructure Projects
+
+Planned additions to expand the home lab into a small business style environment.
+
+Upcoming:
+• Install Windows Server
+• Configure Active Directory Domain Services
+• Create a Domain Controller
+• Configure DNS and user management
+• Connect Windows Pro workstation to the domain
+• Use RDP for remote server administration
+• Create file shares accessible from Windows and Ubuntu systems
+• Install private documentation software such as BookStack
+• Document network configurations, SOPs, and troubleshooting procedures
+
+Skills Practiced
+
+• Windows administration
+• Linux administration
+• Cisco networking
+• VLAN planning
+• Subnetting
+• Network security fundamentals
+• Endpoint hardening
+• Active Directory planning
+• Documentation and IT processes
+
